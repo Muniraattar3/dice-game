@@ -1,17 +1,17 @@
 {
   "name": "project_03",
-  "homepage": "https://YOUR_USERNAME.github.io/dice-game",
+  "homepage": "https://muniraattar3.github.io/dice-game",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "lint": "eslint .",
-  "preview": "vite preview",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
-},
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
